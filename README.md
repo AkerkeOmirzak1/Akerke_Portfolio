@@ -1,5 +1,5 @@
 # Akerke_Portfolio
-Example data analytics portfolio
+
 # [Alemchempyonaty](https://github.com/Aidoxa/Alemchempyonaty/blob/main/Untitled8.ipynb)
 # [Data for analysis](https://github.com/Aidoxa/Alemchempyonaty/blob/main/t20-world-cup-22.csv)
 
